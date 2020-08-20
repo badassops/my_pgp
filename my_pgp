@@ -104,7 +104,7 @@ function help() {
 	echo $_echo_flag "   -i value, imported public key from given file"
 	echo $_echo_flag "   -l, list all imported public key"
 	echo $_echo_flag "   -p save public key in the file $_pub_key_file"
-	echo $_echo_flag "   -r value, recipient, to be use with the -f option"
+	echo $_echo_flag "   -r value, recipient, to be use with the -e option"
 	echo $_echo_flag "   -s value, search the given user and import key"
 	echo $_echo_flag "   -S value, sign the key of the given email or key-id"
 	echo $_echo_flag "   -x value, delete the key of the given email or key-id"
